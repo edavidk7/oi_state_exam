@@ -6,7 +6,7 @@ The Notion repository is available [here](https://www.notion.so/203eef54e4d280a6
 
 If you have an improvement/edit/clarification, please open an issue or a pull request.
 
-Adjustments may be needed when the 2025 refresh of the program comes into effect.
+Adjustments may be needed when the 2025 refresh of OI comes into effect.
 
 Note: Software-related courses may not be as detailed as the others, they tend to appear in the exam less frequently.
 
